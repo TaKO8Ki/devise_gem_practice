@@ -4,7 +4,7 @@
 
 - development.rbに
 
-```
+```ruby.development.rb
 config.action_mailer.smtp_settings = {
   :address => "smtp.gmail.com",
   :port => 587,
